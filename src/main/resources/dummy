@@ -1,0 +1,39 @@
+User:
+1. UserId
+2. Username
+3. Password
+4. Books issued
+5. Account Balance
+6. Phone Number
+7. Email
+8. Address
+
+User Actions :
+1. Add new User
+2. Issue new book to a user
+3. Return a book / book lost / book damaged
+4. Retrieve user information:
+    i. Name
+    ii. Phone number, Email, Address
+    iii. Books issued
+    iv. Account Balance
+5. Change user information
+    i. Phone Number, Email, Address
+    iv. Account balance
+
+
+
+Books:
+1. BookId
+2. Book Name
+3. Book Author
+4. Book Publisher
+5. Availability
+6. Book review /Stars
+
+Book Actions:
+1. Add a new Book
+2. Mark a book damaged
+3. Mark a book lost
+4. Book Condition
+
